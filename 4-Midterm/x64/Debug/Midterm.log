@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\______________DERSLER_____________\4.sınıf\Bahar Dönemi\Problems in Algorithms and Data Structures\midterm\Midterm\main.cpp(356,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Midterm.vcxproj -> D:\______________DERSLER_____________\4.sınıf\Bahar Dönemi\Problems in Algorithms and Data Structures\midterm\Midterm\x64\Debug\Midterm.exe
