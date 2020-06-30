@@ -27,10 +27,10 @@ You are given two polynomials each represented as a singly linked list. You are 
 
 ##### Q2. Two Dimensional Word Search 
 You are given a two dimensional array of characters as shown below:
-                   | A B C E |
-        M[3][4] =  | S F C S |
-                   | A D E E |
-Given a search pattern p = “ABCCED”, you are asked to find out whether the pattern exists in the two dimensional array. The rules of walking over the matrix are the following: If you are at a location '''[i,j]''', you are only allowed to move left [i,j-1], right [i,j+1], up [i-1, j] or down [i+1,j]. Furthermore, you cannot move to a place you have already visited.
+       ```            | A B C E |
+          M[3][4] =   | S F C S |
+                      | A D E E |```
+Given a search pattern p = “ABCCED”, you are asked to find out whether the pattern exists in the two dimensional array. The rules of walking over the matrix are the following: If you are at a location ```[i,j]```, you are only allowed to move left [i,j-1], right [i,j+1], up [i-1, j] or down [i+1,j]. Furthermore, you cannot move to a place you have already visited.
 Notice that the given pattern p = “ABCCED” exists in the matrix as follows. We start at [0,0], that contains ‘A’. We then move right to B, then to right to C, then down to C, then down to E and then to left to D, which is the end of the given pattern. 
 You algorithm TwoDimensionalWordSearch takes in the two dimensional array of characters and the search pattern, and returns either true if the pattern exists in the two dimensional array, or false if the pattern does not exist. If the pattern exists, you must also return the sequence of indices that make up the pattern.
 Fill in the function TwoDimensionalWordSearch in Midterm.cpp. The test code for this function can be found in main.cpp with the name TwoDimensionalWordSearchTest().
