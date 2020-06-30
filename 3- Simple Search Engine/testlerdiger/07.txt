@@ -1,0 +1,8 @@
+There are text files.
+There are binary files.
+The difference is that the each line
+of a text file is marked with a carriage return, line feed pairs
+in Windows systems. In a Linux based system, the end
+of line marker is just the line feed character.
+A file is collection of related information.
+There are many file and directory in a file system.

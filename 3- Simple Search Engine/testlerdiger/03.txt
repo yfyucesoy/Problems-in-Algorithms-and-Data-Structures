@@ -1,0 +1,11 @@
+In computer programming, a self-hosting program is one that can modify, 
+and interpret or compile, its own source code. The purpose of a self-hosting 
+program is to create new versions of itself. For example, operating system 
+kernels qualify as self-hosting if they contain and can compile their 
+own source code. The first self-hosting software was written 
+in LISP by Timothy Hart and Michael Levin in 1964 at MIT. LISP 
+is an example of a self-hosting program language, because 
+its primary data structure is the list, 
+and every valid LISP program is structured as a list.
+
+Text files are very important in computer science.

@@ -1,0 +1,13 @@
+An example of a text file and ASCII art can be seen in 
+Kirk text file. You can click this link to open 
+the .txt file in your browser or right-click the 
+file to save the text file to your computer.
+
+How to open a text file?
+A text file can be opened in any text editor or word processor. 
+For example, in Microsoft Windows you could use the 
+Notepad program to open, view, and edit text files.
+
+Computer is a device used to compute things. 
+Science is the effort to find out the secret of the universe.
+

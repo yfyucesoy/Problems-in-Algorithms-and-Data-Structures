@@ -1,0 +1,8 @@
+You use a computer for several purposes.
+Science is the search for new things.
+A computer network has several components.
+A router, a switch, and a hub are part of a computer
+network. Network management is an important area of research.
+This router has 48 interfaces. 
+This switch has 96 interfaces.
+This hub is nothing but a repeater.

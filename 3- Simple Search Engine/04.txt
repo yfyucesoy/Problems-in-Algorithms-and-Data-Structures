@@ -1,0 +1,12 @@
+In web applications and cloud services, self-hosting refers 
+to software installed and maintained by the user on a generic 
+web hosting service, such as a VPS. The benefit of self-hosting is 
+that the user has complete control over their data, at a potentially 
+lower monthly cost. Network.
+
+The downside is that the user is responsible 
+for maintaining the service. If the service encounters an error, 
+the user is responsible for resolving the issue.
+
+Router is a device to forward IP packets.
+Switch is a device to forward Ethernet packets.

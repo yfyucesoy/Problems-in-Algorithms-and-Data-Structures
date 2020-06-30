@@ -1,0 +1,14 @@
+Route network requests through a proxy to enhance privacy,
+circumvent content or geographical filters, and block malicious 
+websites. If the proxy supports caching, a proxy can also 
+conserve bandwidth and improve loading times 
+for frequently-viewed websites.
+
+Create an encrypted tunnel to your home web server, 
+so you can safely access it from anywhere on the Internet. 
+Enables a web server on your home network to use remote web APIs, 
+as if it were hosted on the Internet. Introspect API usage and network requests, 
+reviewing and optionally replaying API requests for debugging. 
+Useful for developing websites on a firewalled home or business network.
+
+
